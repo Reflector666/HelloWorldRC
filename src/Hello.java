@@ -17,7 +17,7 @@ public class Hello {
         file.createNewFile();
 
         //FileWriter newew=new FileWriter(pathfile,false);
-        System.out.print("\nHello");
+        System.out.print("\nHello WORRRRLLLLLLLDDDDD");
         //Writer output=null;
         //String dirName="C:/Temp";
         //File file = new File(dirname+"write.txt");
